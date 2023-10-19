@@ -1,5 +1,5 @@
 # BulkEmailSender
-BulkEmailSender
+
 **Tutorial: Sending Bulk Emails with Python (Using "BulkEmailSender.py")**
 
 **Prerequisites:**
